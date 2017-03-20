@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text text-cts="urn:cts:greekLit:tlg0013.tlg018.perseus-grc2" author="" title="Hymn 18 To Hermes Machine readable text" date-of-conversion="2017-03-20">
+  <sentence n="position in the document">
+    <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---ma-" u="1">Ἑρμῆν</t>
+    <t p="1" n="2" a="[1]" o="v1spia---" u="2">ἀείδω</t>
+    <t p="1" n="3" a="[1]" o="n-s---ma-" u="3">Κυλλήνιον</t>
+    <t p="1" n="4" a="[1]" o="u--------" u="4" join="b">,</t>
+    <t p="1" n="5" a="[1]" o="n-s---ma-" u="5">Ἀργειφόντην</t>
+    <t p="1" n="6" a="[2]" o="u--------" u="6" join="b">,</t>
+    <t p="5" n="1" a="[1]" o="a-s---fn-" u="7">αἰδοίη</t>
+    <t p="5" n="2" a="[1]" o="u--------" u="8" join="b">:</t>
+  </s>
+  <s n="2">
+    <t p="5" n="3" a="[1]" o="n-p---mg-" u="1">μακάρων</t>
+    <t p="5" n="4" a="[1]" o="c--------" u="2">δὲ</t>
+    <t p="5" n="5" a="[1]" o="n-p---mg-" u="3">θεῶν</t>
+    <t p="5" n="6" a="[1]" o="v3siia---" u="4">ἀλέεινεν</t>
+    <t p="5" n="7" a="[1]" o="n-s---ma-" u="5">ὅμιλον</t>
+    <t p="5" n="8" a="[1]" o="u--------" u="6" join="b">,</t>
+    <t p="10" n="1" a="[1]" o="d--------" u="7">καὶ</t>
+    <t p="10" n="2" a="[1]" o="p-s---mn-" u="8">σὺ</t>
+    <t p="10" n="3" a="[1]" o="g--------" u="9">μὲν</t>
+    <t p="10" n="4" a="[1]" o="d--------" u="10">οὕτω</t>
+    <t p="10" n="5" a="[1]" o="v2spma---" u="11">χαῖρε</t>
+    <t p="10" n="6" a="[1]" o="u--------" u="12" join="b">,</t>
+    <t p="10" n="7" a="[1]" o="n-s---mg-" u="13">Διὸς</t>
+    <t p="10" n="8" a="[2]" o="d--------" u="14">καὶ</t>
+    <t p="10" n="9" a="[1]" o="n-s---fg-" u="15">Μαιάδος</t>
+    <t p="10" n="10" a="[1]" o="n-s---mv-" u="16">υἱέ</t>
+    <t p="10" n="11" a="[1]" o="u--------" u="17" join="b">:</t>
+  </s>
+</text>

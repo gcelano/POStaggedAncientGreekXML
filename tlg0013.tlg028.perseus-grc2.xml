@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text text-cts="urn:cts:greekLit:tlg0013.tlg028.perseus-grc2" author="" title="Hymn 28 To Athena  Machine readable text" date-of-conversion="2017-03-20">
+  <sentence n="position in the document">
+    <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---fg-" u="1">Παλλάδ᾽</t>
+    <t p="1" n="2" a="[1]" o="n-s---fa-" u="2">Ἀθηναίην</t>
+    <t p="1" n="3" a="[1]" o="u--------" u="3" join="b">,</t>
+    <t p="1" n="4" a="[1]" o="a-s---fa-" u="4">κυδρὴν</t>
+    <t p="1" n="5" a="[1]" o="n-s---fa-" u="5">θεόν</t>
+    <t p="1" n="6" a="[2]" o="u--------" u="6" join="b">,</t>
+    <t p="1" n="7" a="[1]" o="p-p---fg-" u="7">ἄρχομ᾽</t>
+    <t p="1" n="8" a="[1]" o="v--pna---" u="8">ἀείδειν</t>
+    <t p="5" n="1" a="[1]" o="a-s---fg-" u="9">σεμνῆς</t>
+    <t p="5" n="2" a="[1]" o="r--------" u="10">ἐκ</t>
+    <t p="5" n="3" a="[1]" o="n-s---fg-" u="11">κεφαλῆς</t>
+    <t p="5" n="4" a="[1]" o="u--------" u="12" join="b">,</t>
+    <t p="5" n="5" a="[1]" o="a-p---na-" u="13">πολεμήια</t>
+    <t p="5" n="6" a="[1]" o="n-p---na-" u="14">τεύχε᾽</t>
+    <t p="5" n="7" a="[1]" o="v-sppafa-" u="15">ἔχουσαν</t>
+    <t p="5" n="8" a="[2]" o="u--------" u="16" join="b">,</t>
+    <t p="10" n="1" a="[1]" o="a-s---na-" u="17">δεινὸν</t>
+    <t p="10" n="2" a="[1]" o="r--------" u="18">ὑπὸ</t>
+    <t p="10" n="3" a="[1]" o="a-s---fg-" u="19">βρίμης</t>
+    <t p="10" n="4" a="[1]" o="n-s---fg-" u="20">γλαυκώπιδος</t>
+    <t p="10" n="5" a="[1]" o="u--------" u="21" join="b">:</t>
+  </s>
+</text>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text text-cts="urn:cts:greekLit:tlg0013.tlg017.perseus-grc2" author="" title="Hymn 17 To the Dioscuri Machine readable text" date-of-conversion="2017-03-20">
+  <sentence n="position in the document">
+    <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---ma-" u="1">Κάστορα</t>
+    <t p="1" n="2" a="[1]" o="d--------" u="2">καὶ</t>
+    <t p="1" n="3" a="[1]" o="n-s---ma-" u="3">Πολυδεύκἐ</t>
+    <t p="1" n="4" a="[1]" o="a-s---ma-" u="4">ἀείσεο</t>
+    <t p="1" n="5" a="[1]" o="u--------" u="5" join="b">,</t>
+    <t p="1" n="6" a="[1]" o="n-s---fn-" u="6">Μοῦσα</t>
+    <t p="1" n="7" a="[1]" o="a-s---fn-" u="7">λίγεια</t>
+    <t p="1" n="8" a="[2]" o="u--------" u="8" join="b">,</t>
+    <t p="5" n="1" a="[1]" o="v2ppma---" u="9">χαίρετε</t>
+    <t p="5" n="2" a="[1]" o="u--------" u="10" join="b">,</t>
+    <t p="5" n="3" a="[1]" o="n-p---mv-" u="11">Τυνδαρίδαι</t>
+    <t p="5" n="4" a="[2]" o="u--------" u="12" join="b">,</t>
+    <t p="5" n="5" a="[1]" o="a-p---ng-" u="13">ταχέων</t>
+    <t p="5" n="6" a="[1]" o="n-p---mn-" u="14">ἐπιβήτορες</t>
+    <t p="5" n="7" a="[1]" o="n-p---mg-" u="15">ἵππων</t>
+    <t p="5" n="8" a="[1]" o="u--------" u="16" join="b">.</t>
+  </s>
+</text>

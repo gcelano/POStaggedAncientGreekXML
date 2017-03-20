@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text text-cts="urn:cts:greekLit:tlg0013.tlg009.perseus-grc2" author="" title="Hymn 9 To Artemis Machine readable text" date-of-conversion="2017-03-20">
+  <sentence n="position in the document">
+    <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---fa-" u="1">Ἄρτεμιν</t>
+    <t p="1" n="2" a="[1]" o="v2spma---" u="2">ὕμνει</t>
+    <t p="1" n="3" a="[1]" o="u--------" u="3" join="b">,</t>
+    <t p="1" n="4" a="[1]" o="n-s---fv-" u="4">Μοῦσα</t>
+    <t p="1" n="5" a="[2]" o="u--------" u="5" join="b">,</t>
+    <t p="1" n="6" a="[1]" o="n-s---fa-" u="6">κασιγνήτην</t>
+    <t p="1" n="7" a="[1]" o="n-s---mg-" u="7">Ἑκάτοιο</t>
+    <t p="1" n="8" a="[1]" o="u--------" u="8" join="b">.</t>
+  </s>
+  <s n="2">
+    <t p="5" n="1" a="[1]" o="v3sri----" u="1">ἧσται</t>
+    <t p="5" n="2" a="[1]" o="v-sppamn-" u="2">μιμνάζων</t>
+    <t p="5" n="3" a="[1]" o="a-s---fa-" u="3">ἑκατηβόλον</t>
+    <t p="5" n="4" a="[1]" o="n-s---fa-" u="4">ἰοχέαιραν</t>
+    <t p="5" n="5" a="[1]" o="u--------" u="5" join="b">.</t>
+  </s>
+</text>

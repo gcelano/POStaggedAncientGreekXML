@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text text-cts="urn:cts:greekLit:tlg0013.tlg023.perseus-grc2" author="" title="Hymn 23 to Zeus Machine readable text" date-of-conversion="2017-03-20">
+  <sentence n="position in the document">
+    <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---ma-" u="1">Ζῆνα</t>
+    <t p="1" n="2" a="[1]" o="n-p---mg-" u="2">θεῶν</t>
+    <t p="1" n="3" a="[1]" o="l-s---ma-" u="3">τὸν</t>
+    <t p="1" n="4" a="[1]" o="a-s---ma-" u="4">ἄριστον</t>
+    <t p="1" n="5" a="[1]" o="v1sfim---" u="5">ἀείσομαι</t>
+    <t p="1" n="6" a="[1]" o="c--------" u="6">ἠδὲ</t>
+    <t p="1" n="7" a="[1]" o="a-s---nas" u="7">μέγιστον</t>
+    <t p="1" n="8" a="[1]" o="u--------" u="8" join="b">,</t>
+    <t p="4" n="1" a="[1]" o="n-s---fv-" u="9">ἵληθʼ</t>
+    <t p="4" n="2" a="[1]" o="u--------" u="10" join="b">,</t>
+    <t p="4" n="3" a="[1]" o="a-s---fv-" u="11">εὐρύοπα</t>
+    <t p="4" n="4" a="[1]" o="n-s---mv-" u="12">Κρονίδη</t>
+    <t p="4" n="5" a="[2]" o="u--------" u="13" join="b">,</t>
+    <t p="4" n="6" a="[1]" o="a-s---mvs" u="14">κύδιστε</t>
+    <t p="4" n="7" a="[1]" o="a-s---mv-" u="15">μέγιστε</t>
+    <t p="4" n="8" a="[1]" o="u--------" u="16" join="b">.</t>
+  </s>
+</text>

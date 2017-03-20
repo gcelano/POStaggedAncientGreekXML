@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text text-cts="urn:cts:greekLit:tlg0013.tlg022.perseus-grc2" author="" title="Hymn 22 To Poseidon Machine readable text" date-of-conversion="2017-03-20">
+  <sentence n="position in the document">
+    <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="r--------" u="1">ἀμφὶ</t>
+    <t p="1" n="2" a="[1]" o="n-s---ma-" u="2">Ποσειδάωτα</t>
+    <t p="1" n="3" a="[1]" o="u--------" u="3" join="b">,</t>
+    <t p="1" n="4" a="[1]" o="a-s---ma-" u="4">μέγαν</t>
+    <t p="1" n="5" a="[1]" o="n-s---ma-" u="5">θεόν</t>
+    <t p="1" n="6" a="[2]" o="u--------" u="6" join="b">,</t>
+    <t p="1" n="7" a="[1]" o="n-s---mv-" u="7">ἄρχομʼ</t>
+    <t p="1" n="8" a="[1]" o="v--pna---" u="8">ἀείδειν</t>
+    <t p="1" n="9" a="[3]" o="u--------" u="9" join="b">,</t>
+    <t p="5" n="1" a="[1]" o="n-p---mg-" u="10">ἵππων</t>
+    <t p="5" n="2" a="[1]" o="g--------" u="11">τε</t>
+    <t p="5" n="3" a="[1]" o="n-s---ma-" u="12">δμητῆρʼ</t>
+    <t p="5" n="4" a="[1]" o="v--pna---" u="13">ἔμεναι</t>
+    <t p="5" n="5" a="[1]" o="n-s---ma-" u="14">σωτῆρά</t>
+    <t p="5" n="6" a="[2]" o="g--------" u="15">τε</t>
+    <t p="5" n="7" a="[1]" o="n-p---fg-" u="16">νηῶν</t>
+    <t p="5" n="8" a="[1]" o="u--------" u="17" join="b">.</t>
+  </s>
+</text>

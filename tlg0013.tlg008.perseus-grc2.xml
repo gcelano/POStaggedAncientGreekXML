@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text text-cts="urn:cts:greekLit:tlg0013.tlg008.perseus-grc2" author="" title="Hymn 8 To Ares Machine readable text" date-of-conversion="2017-03-20">
+  <sentence n="position in the document">
+    <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---mv-" u="1">Ἆρες</t>
+    <t p="1" n="2" a="[1]" o="n-s---mv-" u="2">ὑπερμενέτα</t>
+    <t p="1" n="3" a="[1]" o="u--------" u="3" join="b">,</t>
+    <t p="1" n="4" a="[1]" o="v2pama---" u="4">βρισάρματε</t>
+    <t p="1" n="5" a="[2]" o="u--------" u="5" join="b">,</t>
+    <t p="1" n="6" a="[1]" o="n-s---mv-" u="6">χρυσεοπήληξ</t>
+    <t p="1" n="7" a="[3]" o="u--------" u="7" join="b">,</t>
+    <t p="5" n="1" a="[1]" o="a-p---md-" u="8">ἀντιβίοισι</t>
+    <t p="5" n="2" a="[1]" o="n-s---mv-" u="9">τύραννε</t>
+    <t p="5" n="3" a="[1]" o="u--------" u="10" join="b">,</t>
+    <t p="5" n="4" a="[1]" o="a-p---mgs" u="11">δικαιοτάτων</t>
+    <t p="5" n="5" a="[1]" o="r--------" u="12">ἀγὲ</t>
+    <t p="5" n="6" a="[1]" o="n-p---mg-" u="13">φωτῶν</t>
+    <t p="5" n="7" a="[2]" o="u--------" u="14" join="b">,</t>
+    <t p="10" n="1" a="[1]" o="d--------" u="15">πρηὺ</t>
+    <t p="10" n="2" a="[1]" o="v-sppamn-" u="16">καταστίλβων</t>
+    <t p="10" n="3" a="[1]" o="n-s---na-" u="17">σέλας</t>
+    <t p="10" n="4" a="[1]" o="d--------" u="18">ὑψόθεν</t>
+    <t p="10" n="5" a="[1]" o="r--------" u="19">ἐς</t>
+    <t p="10" n="6" a="[1]" o="n-s---fa-" u="20">βιότητα</t>
+    <t p="15" n="1" a="[1]" o="n-s---fg-" u="21">φυλόπιδος</t>
+    <t p="15" n="2" a="[1]" o="a-s---fg-" u="22">κρυερῆς</t>
+    <t p="15" n="3" a="[1]" o="v--pna---" u="23">ἐπιβαινέμεν</t>
+    <t p="15" n="4" a="[1]" o="u--------" u="24" join="b">·</t>
+  </s>
+</text>

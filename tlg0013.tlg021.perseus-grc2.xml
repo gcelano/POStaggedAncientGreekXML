@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text text-cts="urn:cts:greekLit:tlg0013.tlg021.perseus-grc2" author="" title="Hymn 21 To Apollo Machine readable text" date-of-conversion="2017-03-20">
+  <sentence n="position in the document">
+    <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---mv-" u="1">φοῖβε</t>
+    <t p="1" n="2" a="[1]" o="u--------" u="2" join="b">,</t>
+    <t p="1" n="3" a="[1]" o="p-s---ma-" u="3">σὲ</t>
+    <t p="1" n="4" a="[1]" o="g--------" u="4">μὲν</t>
+    <t p="1" n="5" a="[1]" o="d--------" u="5">καὶ</t>
+    <t p="1" n="6" a="[1]" o="n-s---mn-" u="6">κύκνος</t>
+    <t p="1" n="7" a="[1]" o="r--------" u="7">ὑπὸ</t>
+    <t p="1" n="8" a="[1]" o="n-p---fg-" u="8">πτερύγων</t>
+    <t p="1" n="9" a="[1]" o="n-s---fd-" u="9">λίγʼ</t>
+    <t p="1" n="10" a="[1]" o="v3spia---" u="10">ἀείδει</t>
+    <t p="1" n="11" a="[2]" o="u--------" u="11" join="b">,</t>
+    <t p="5" n="1" a="[1]" o="d--------" u="12">καὶ</t>
+    <t p="5" n="2" a="[1]" o="p-s---mn-" u="13">σὺ</t>
+    <t p="5" n="3" a="[1]" o="g--------" u="14">μὲν</t>
+    <t p="5" n="4" a="[1]" o="d--------" u="15">οὕτω</t>
+    <t p="5" n="5" a="[1]" o="v2spma---" u="16">χαῖρε</t>
+    <t p="5" n="6" a="[1]" o="u--------" u="17" join="b">,</t>
+    <t p="5" n="7" a="[1]" o="n-s---mv-" u="18">ἄναξ</t>
+    <t p="5" n="8" a="[2]" o="u--------" u="19" join="b">,</t>
+    <t p="5" n="9" a="[1]" o="v1spie---" u="20">ἵλαμαι</t>
+    <t p="5" n="10" a="[1]" o="g--------" u="21">δέ</t>
+    <t p="5" n="11" a="[1]" o="p-p---fd-" u="22">σʼ</t>
+    <t p="5" n="12" a="[1]" o="n-s---fd-" u="23">ἀοιδῇ</t>
+    <t p="5" n="13" a="[1]" o="u--------" u="24" join="b">.</t>
+  </s>
+</text>

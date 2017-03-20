@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text text-cts="urn:cts:greekLit:tlg0013.tlg011.perseus-grc2" author="" title="Hymn 11 To Athena Machine readable text" date-of-conversion="2017-03-20">
+  <sentence n="position in the document">
+    <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---fa-" u="1">Παλλάδʼ</t>
+    <t p="1" n="2" a="[1]" o="n-s---fa-" u="2">Ἀθηναίην</t>
+    <t p="1" n="3" a="[1]" o="n-s---fa-" u="3">ἐρυσίπτολιν</t>
+    <t p="1" n="4" a="[1]" o="a-s---fa-" u="4">ἄρχομʼ</t>
+    <t p="1" n="5" a="[1]" o="v--pna---" u="5">ἀείδειν</t>
+    <t p="1" n="6" a="[1]" o="u--------" u="6" join="b">,</t>
+    <t p="5" n="1" a="[1]" o="v2spma---" u="7">χαῖρε</t>
+    <t p="5" n="2" a="[1]" o="u--------" u="8" join="b">,</t>
+    <t p="5" n="3" a="[1]" o="n-s---fv-" u="9">θεά</t>
+    <t p="5" n="4" a="[2]" o="u--------" u="10" join="b">,</t>
+    <t p="5" n="5" a="[1]" o="v2sama---" u="11">δὸς</t>
+    <t p="5" n="6" a="[1]" o="d--------" u="12">δʼ</t>
+    <t p="5" n="7" a="[1]" o="p-p---md-" u="13">ἄμμι</t>
+    <t p="5" n="8" a="[1]" o="n-s---fa-" u="14">τύχην</t>
+    <t p="5" n="9" a="[1]" o="n-s---fa-" u="15">εὐδαιμονίην</t>
+    <t p="5" n="10" a="[1]" o="g--------" u="16">τε</t>
+    <t p="5" n="11" a="[1]" o="u--------" u="17" join="b">.</t>
+  </s>
+</text>

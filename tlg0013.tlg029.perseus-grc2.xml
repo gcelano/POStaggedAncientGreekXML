@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text text-cts="urn:cts:greekLit:tlg0013.tlg029.perseus-grc2" author="" title="Hymn 29 To Hestia Machine readable text" date-of-conversion="2017-03-20">
+  <sentence n="position in the document">
+    <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---fn-" u="1">ἑστίη</t>
+    <t p="1" n="2" a="[1]" o="u--------" u="2" join="b">,</t>
+    <t p="1" n="3" a="[1]" o="p-s---fn-" u="3">ἣ</t>
+    <t p="1" n="4" a="[1]" o="a-p---mg-" u="4">πάντων</t>
+    <t p="1" n="5" a="[1]" o="r--------" u="5">ἐν</t>
+    <t p="1" n="6" a="[1]" o="n-p---nd-" u="6">δώμασιν</t>
+    <t p="1" n="7" a="[1]" o="a-p---nd-" u="7">ὑψηλοῖσιν</t>
+    <t p="5" n="1" a="[1]" o="n-p---fn-" u="8">εἰλαπίναι</t>
+    <t p="5" n="2" a="[1]" o="a-p---md-" u="9">θνητοῖσιν</t>
+    <t p="5" n="3" a="[1]" o="u--------" u="10" join="b">,</t>
+    <t p="5" n="4" a="[1]" o="c--------" u="11">ἵν᾽</t>
+    <t p="5" n="5" a="[1]" o="d--------" u="12">οὐ</t>
+    <t p="5" n="6" a="[1]" o="a-s---fd-" u="13">πρώτῃ</t>
+    <t p="5" n="7" a="[1]" o="n-s---fd-" u="14">πυμάτῃ</t>
+    <t p="5" n="8" a="[1]" o="d--------" u="15">τε</t>
+    <t p="10" n="1" a="[1]" o="a-s---mn-" u="16">ἵλαος</t>
+    <t p="10" n="2" a="[1]" o="v-sppamn-" u="17">ὢν</t>
+    <t p="10" n="3" a="[1]" o="v3siia---" u="18">ἐπάρηγε</t>
+    <t p="10" n="4" a="[1]" o="r--------" u="19">σὺν</t>
+    <t p="10" n="5" a="[1]" o="n-s---fd-" u="20">αἰδοίῃ</t>
+    <t p="10" n="6" a="[1]" o="g--------" u="21">τε</t>
+    <t p="10" n="7" a="[1]" o="a-s---fd-" u="22">φίλῃ</t>
+    <t p="10" n="8" a="[2]" o="g--------" u="23">τε</t>
+    <t p="10" n="9" a="[1]" o="u--------" u="24" join="b">.</t>
+  </s>
+  <s n="2">
+    <t p="9" n="1" a="[1]" o="v2ppma---" u="1">5ναίετε</t>
+    <t p="9" n="2" a="[1]" o="n-p---na-" u="2">δώματα</t>
+    <t p="9" n="3" a="[1]" o="a-p---na-" u="3">καλά</t>
+    <t p="9" n="4" a="[1]" o="u--------" u="4" join="b">,</t>
+    <t p="9" n="5" a="[1]" o="a-p---na-" u="5">φίλα</t>
+    <t p="9" n="6" a="[1]" o="n-p---fd-" u="6">φρεσὶν</t>
+    <t p="9" n="7" a="[1]" o="a-p---md-" u="7">ἀλλήλοισιν</t>
+    <t p="11" n="1" a="[1]" o="v-prpamn-" u="8">εἰδότες</t>
+    <t p="11" n="2" a="[1]" o="u--------" u="9" join="b">:</t>
+  </s>
+</text>

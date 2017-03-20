@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text text-cts="urn:cts:greekLit:tlg0013.tlg030.perseus-grc2" author="" title="Hymn 30 To Earth Machine readable text" date-of-conversion="2017-03-20">
+  <sentence n="position in the document">
+    <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
+  </sentence>
+  <s n="1">
+    <t p="1" n="1" a="[1]" o="n-s---fa-" u="1">γαῖαν</t>
+    <t p="1" n="2" a="[1]" o="a-s---fa-" u="2">παμμήτειραν</t>
+    <t p="1" n="3" a="[1]" o="v1sfim---" u="3">ἀείσομαι</t>
+    <t p="1" n="4" a="[1]" o="u--------" u="4" join="b">,</t>
+    <t p="1" n="5" a="[1]" o="n-s---ma-" u="5">ἠυθέμεθλον</t>
+    <t p="1" n="6" a="[2]" o="u--------" u="6" join="b">,</t>
+    <t p="5" n="1" a="[1]" o="r--------" u="7">ἐκ</t>
+    <t p="5" n="2" a="[1]" o="p-s---mg-" u="8">σέο</t>
+    <t p="5" n="3" a="[1]" o="v3sama---" u="9">δʼ</t>
+    <t p="5" n="4" a="[1]" o="n-p---fn-" u="10">εὔπαιδές</t>
+    <t p="5" n="5" a="[1]" o="g--------" u="11">τε</t>
+    <t p="5" n="6" a="[1]" o="c--------" u="12">καὶ</t>
+    <t p="5" n="7" a="[1]" o="a-p---fn-" u="13">εὔκαρποι</t>
+    <t p="5" n="8" a="[1]" o="v3ppia---" u="14">τελέθουσι</t>
+    <t p="5" n="9" a="[1]" o="u--------" u="15" join="b">,</t>
+    <t p="10" n="1" a="[1]" o="n-p---nd-" u="16">κτήνεσιν</t>
+    <t p="10" n="2" a="[1]" o="v3spia---" u="17">εὐθηνεῖ</t>
+    <t p="10" n="3" a="[1]" o="u--------" u="18" join="b">,</t>
+    <t p="10" n="4" a="[1]" o="n-s---mn-" u="19">οἶκος</t>
+    <t p="10" n="5" a="[1]" o="c--------" u="20">δʼ</t>
+    <t p="10" n="6" a="[1]" o="v3spie---" u="21">ἐμπίπλαται</t>
+    <t p="10" n="7" a="[1]" o="a-p---mg-" u="22">ἐσθλῶν</t>
+    <t p="10" n="8" a="[1]" o="u--------" u="23" join="b">·</t>
+  </s>
+</text>

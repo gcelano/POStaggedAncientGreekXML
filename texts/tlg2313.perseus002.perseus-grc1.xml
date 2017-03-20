@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text text-cts="urn:cts:greekLit:tlg2313.perseus002.perseus-grc1" author="Antisthenes" title="Odysseus" date-of-conversion="2017-03-20">
+  <sentence n="position in the document">
+    <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
+  </sentence>
+</text>

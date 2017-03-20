@@ -3,7 +3,6 @@
 This repository contains the POS tagged (CTSized) texts of the Greek Literature contained in the two repositories:
 
 * https://github.com/PerseusDL/canonical-greekLit
-* https://github.com/OpenGreekAndLatin/First1KGreek
 
 The same tokenized texts on which this repository is build on are the following:
 

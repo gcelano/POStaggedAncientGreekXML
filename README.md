@@ -15,7 +15,7 @@ Relying on this tokenization, the POS-tagging has been generated (completely) au
 
 The tagger achieved an accuracy of 88%. More details can be found in the article:
 
-Celano, Giuseppe G. A, Gregory Crane, Saeed Majidi. 2017  (eds.). Treebanking and ancient languages: Current and prospective research. Open Linguistics. De Gryuter Open
+* Celano, Giuseppe G. A, Gregory Crane, Saeed Majidi. 2016. Part of Speech Tagging for Ancient Greek. Open Linguistics 2:393–399. https://doi.org/10.1515/opli-2016-0020
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

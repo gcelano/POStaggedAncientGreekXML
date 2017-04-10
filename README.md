@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.496130.svg)](https://doi.org/10.5281/zenodo.496130)
 # POS-tagged AncientGreek texts (v1.1.0)
 
 This repository contains the POS-tagged (CTSized) texts of the Ancient Greek Literature contained in the two repositories:

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<text text-cts="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2" author="Aeschylus" title="Persians Machine readable text" date-of-conversion="2017-03-20">
+<text text-cts="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2" author="Aeschylus" title="Persians Machine readable text" file-name="tlg0085.tlg002.perseus-grc2.xml" date-of-conversion="2017-03-29">
   <sentence n="position in the document">
     <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
   </sentence>
@@ -2744,30 +2744,6 @@
     <t p="402" n="1" a="[1]" o="a-s---fa-" u="21">πολλὴν</t>
     <t p="402" n="2" a="[1]" o="n-s---fa-" u="22">βοήν</t>
     <t p="402" n="3" a="[1]" o="u--------" u="23" join="b">,</t>
-    <t p="402" n="4" a="[1]" o="u--------" u="24" join="a">‘</t>
-    <t p="402" n="5" a="[1]" o="i--------" u="25">ὦ</t>
-    <t p="402" n="6" a="[1]" o="n-p---mv-" u="26">παῖδες</t>
-    <t p="402" n="7" a="[1]" o="n-p---mg-" u="27">Ἑλλήνων</t>
-    <t p="402" n="8" a="[1]" o="v2ppma---" u="28">ἴτε</t>
-    <t p="402" n="9" a="[2]" o="u--------" u="29" join="b">,</t>
-    <t p="403" n="1" a="[1]" o="v2ppma---" u="30">ἐλευθεροῦτε</t>
-    <t p="403" n="2" a="[1]" o="n-p---fv-" u="31">πατρίδʼ</t>
-    <t p="403" n="3" a="[1]" o="u--------" u="32" join="b">,</t>
-    <t p="403" n="4" a="[2]" o="v2ppma---" u="33">ἐλευθεροῦτε</t>
-    <t p="403" n="5" a="[1]" o="c--------" u="34">δὲ</t>
-    <t p="404" n="1" a="[1]" o="n-p---ma-" u="35">παῖδας</t>
-    <t p="404" n="2" a="[1]" o="u--------" u="36" join="b">,</t>
-    <t p="404" n="3" a="[1]" o="n-p---fa-" u="37">γυναῖκας</t>
-    <t p="404" n="4" a="[2]" o="u--------" u="38" join="b">,</t>
-    <t p="404" n="5" a="[1]" o="n-p---mg-" u="39">θεῶν</t>
-    <t p="404" n="6" a="[1]" o="p-s----a-" u="40">τέ</t>
-    <t p="404" n="7" a="[1]" o="a-p---mg-" u="41">πατρῴων</t>
-    <t p="404" n="8" a="[1]" o="n-p---na-" u="42">ἕδη</t>
-    <t p="404" n="9" a="[3]" o="u--------" u="43" join="b">,</t>
-    <t p="405" n="1" a="[1]" o="n-p---fa-" u="44">θήκας</t>
-    <t p="405" n="2" a="[1]" o="g--------" u="45">τε</t>
-    <t p="405" n="3" a="[1]" o="n-p---mg-" u="46">προγόνων</t>
-    <t p="405" n="4" a="[1]" o="u--------" u="47" join="b">·</t>
   </s>
   <s n="161">
     <t p="405" n="5" a="[1]" o="d--------" u="1">νῦν</t>
@@ -2776,23 +2752,7 @@
     <t p="405" n="8" a="[1]" o="n-s---mn-" u="4">ἀγών</t>
     <t p="405" n="9" a="[1]" o="u--------" u="5" join="b">.</t>
   </s>
-  <s n="162">
-    <t p="405" n="10" a="[1]" o="u--------" u="1" join="b">’</t>
-    <t p="406" n="1" a="[1]" o="d--------" u="2">καὶ</t>
-    <t p="406" n="2" a="[1]" o="g--------" u="3">μὴν</t>
-    <t p="406" n="3" a="[1]" o="r--------" u="4">παρʼ</t>
-    <t p="406" n="4" a="[1]" o="p-p---mg-" u="5">ἡμῶν</t>
-    <t p="406" n="5" a="[1]" o="n-s---fg-" u="6">Περσίδος</t>
-    <t p="406" n="6" a="[1]" o="n-s---fg-" u="7">γλώσσης</t>
-    <t p="406" n="7" a="[1]" o="n-s---mn-" u="8">ῥόθος</t>
-    <t p="407" n="1" a="[1]" o="v3siia---" u="9">ὑπηντίαζε</t>
-    <t p="407" n="2" a="[1]" o="u--------" u="10" join="b">,</t>
-    <t p="407" n="3" a="[1]" o="p-s---fn-" u="11">κοὐκέτʼ</t>
-    <t p="407" n="4" a="[1]" o="v3siia---" u="12">ἦν</t>
-    <t p="407" n="5" a="[1]" o="v--pna---" u="13">μέλλειν</t>
-    <t p="407" n="6" a="[1]" o="n-s---fn-" u="14">ἀκμή</t>
-    <t p="407" n="7" a="[1]" o="u--------" u="15" join="b">.</t>
-  </s>
+  <s n="162"/>
   <s n="163">
     <t p="408" n="1" a="[1]" o="d--------" u="1">εὐθὺς</t>
     <t p="408" n="2" a="[1]" o="c--------" u="2">δὲ</t>

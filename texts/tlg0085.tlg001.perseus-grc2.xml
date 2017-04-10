@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<text text-cts="urn:cts:greekLit:tlg0085.tlg001.perseus-grc2" author="Aeschylus" title="Suppliant Women Machine readable text" date-of-conversion="2017-03-20">
+<text text-cts="urn:cts:greekLit:tlg0085.tlg001.perseus-grc2" author="Aeschylus" title="Suppliant Women Machine readable text" file-name="tlg0085.tlg001.perseus-grc2.xml" date-of-conversion="2017-03-29">
   <sentence n="position in the document">
     <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
   </sentence>
@@ -3892,14 +3892,6 @@
     <t p="4.583" n="3" a="[1]" o="v3spia---" u="3">βοᾷ</t>
     <t p="4.583" n="4" a="[1]" o="n-s---fn-" u="4">χθών</t>
     <t p="4.583" n="5" a="[1]" o="u--------" u="5" join="b">,</t>
-    <t p="4.584" n="1" a="[1]" o="u--------" u="6" join="a">‘</t>
-    <t p="4.584" n="2" a="[1]" o="a-s---mg-" u="7">φυσιζόου</t>
-    <t p="4.584" n="3" a="[1]" o="n-s---nn-" u="8">γένος</t>
-    <t p="4.584" n="4" a="[1]" o="p-s---nn-" u="9">τόδε</t>
-    <t p="4.585" n="1" a="[1]" o="n-s---mg-" u="10">Ζηνός</t>
-    <t p="4.585" n="2" a="[1]" o="v3spia---" u="11">ἐστιν</t>
-    <t p="4.585" n="3" a="[1]" o="d--------" u="12">ἀληθῶς</t>
-    <t p="4.585" n="4" a="[1]" o="u--------" u="13" join="b">·</t>
   </s>
   <s n="281">
     <t p="4.586" n="1" a="[1]" o="p-s---mn-" u="1">τίς</t>
@@ -3913,21 +3905,7 @@
     <t p="4.587" n="3" a="[1]" o="a-p---fa-" u="9">ἐπιβούλους</t>
     <t p="4.587" n="4" a="[1]" o="u--------" u="10" join="b">;</t>
   </s>
-  <s n="282">
-    <t p="4.587" n="5" a="[1]" o="--------" u="1" join="b">’</t>
-    <t p="4.588" n="1" a="[1]" o="n-s---mg-" u="2">Διὸς</t>
-    <t p="4.588" n="2" a="[1]" o="p-s---nn-" u="3">τόδʼ</t>
-    <t p="4.588" n="3" a="[1]" o="n-s---nn-" u="4">ἔργον</t>
-    <t p="4.588" n="4" a="[1]" o="d--------" u="5">καὶ</t>
-    <t p="4.588" n="5" a="[2]" o="a-s---nn-" u="6">τόδʼ</t>
-    <t p="4.588" n="6" a="[1]" o="g--------" u="7">ἂν</t>
-    <t p="4.588" n="7" a="[1]" o="n-s---nn-" u="8">γένος</t>
-    <t p="4.588" n="8" a="[1]" o="v-sppamn-" u="9">λέγων</t>
-    <t p="4.589" n="1" a="[1]" o="r--------" u="10">ἐξ</t>
-    <t p="4.589" n="2" a="[1]" o="n-s---mg-" u="11">Ἐπάφου</t>
-    <t p="4.589" n="3" a="[1]" o="v2saoa---" u="12">κυρήσαις</t>
-    <t p="4.589" n="4" a="[1]" o="u--------" u="13" join="b">.</t>
-  </s>
+  <s n="282"/>
   <s n="283">
     <t p="5" n="1" a="[1]" o="n-s---mn-" u="1">Χορός</t>
     <t p="5.590" n="1" a="[1]" o="d--------" u="2">τίνʼ</t>

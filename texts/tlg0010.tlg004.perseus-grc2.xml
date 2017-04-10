@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<text text-cts="urn:cts:greekLit:tlg0010.tlg004.perseus-grc2" author="Isocrates" title="Concerning the Team of Horses from Speeches Machine readable text" date-of-conversion="2017-03-20">
+<text text-cts="urn:cts:greekLit:tlg0010.tlg004.perseus-grc2" author="Isocrates" title="Concerning the Team of Horses from Speeches Machine readable text" file-name="tlg0010.tlg004.perseus-grc2.xml" date-of-conversion="2017-03-29">
   <sentence n="position in the document">
     <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
   </sentence>

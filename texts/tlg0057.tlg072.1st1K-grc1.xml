@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<text text-cts="urn:cts:greekLit:tlg0057.tlg072.1st1K-grc1" author="Galen" title="De purgantium medicamentorum facultate" date-of-conversion="2017-03-20">
+<text text-cts="urn:cts:greekLit:tlg0057.tlg072.1st1K-grc1" author="Galen" title="De purgantium medicamentorum facultate" file-name="tlg0057.tlg072.1st1K-grc1.xml" date-of-conversion="2017-03-29">
   <sentence n="position in the document">
     <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
   </sentence>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<text text-cts="urn:cts:greekLit:tlg0010.tlg010.perseus-grc2" author="Isocrates" title="Busiris from Speeches Machine readable text" date-of-conversion="2017-03-20">
+<text text-cts="urn:cts:greekLit:tlg0010.tlg010.perseus-grc2" author="Isocrates" title="Busiris from Speeches Machine readable text" file-name="tlg0010.tlg010.perseus-grc2.xml" date-of-conversion="2017-03-29">
   <sentence n="position in the document">
     <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger pos tag" u="position in s element" join="optional: join b(ack) or a(fter)" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">token</token>
   </sentence>
@@ -1387,8 +1387,6 @@
     <t p="21" n="39" a="[1]" o="n-s---fa-" u="23">σχολὴν</t>
     <t p="21" n="40" a="[2]" o="c--------" u="24">δὲ</t>
     <t p="21" n="41" a="[4]" o="l-p---fd-" u="25">ταῖς</t>
-    <t p="21" n="42" a="[1]" o="v--ana---" u="26">ἀποθανεῖν</t>
-    <t p="21" n="43" a="[1]" o="u--------" u="27" join="b">·</t>
   </s>
   <s n="41">
     <t p="22" n="1" a="[1]" o="r--------" u="1">μεθʼ</t>

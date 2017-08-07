@@ -2,7 +2,7 @@
 
 This repository contains the POS-tagged (CTSized) texts of the Ancient Greek Literature contained in the two repositories:
 
-* https://github.com/PerseusDL/canonical-greekLit
+* https://github.com/PerseusDL/canonical-greekLit/releases/tag/0.0.236
 * https://github.com/OpenGreekAndLatin/First1KGreek/releases/tag/1.1.1802
 
 The POS-tagging has been generated (completely) automatically by using the MATE tagger, which has been trained on Perseus treebank data:

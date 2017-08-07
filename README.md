@@ -15,7 +15,7 @@ The tagger achieved an accuracy of 88%. More details can be found in the article
 
 # Changes from previous releases
 From release 1.1.0:
-* New Texts 
+* New Texts have been added. Tokenization now detects capital letter abbreviations such as ΑΠΟΛ.
 
 From release 1.0.0:
 * Correction to the cts-urn structure by considering the elements seg and p (currently div, seg, p, and l are considered)

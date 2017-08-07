@@ -14,10 +14,10 @@ The tagger achieved an accuracy of 88%. More details can be found in the article
 * Celano, Giuseppe G. A, Gregory Crane, Saeed Majidi. 2016. Part of Speech Tagging for Ancient Greek. Open Linguistics 2:393–399. https://doi.org/10.1515/opli-2016-0020
 
 # Changes from previous releases
-From release 1.1.0:
+Release 1.2.0:
 * New Texts have been added. Tokenization now detects capital letter abbreviations such as ΑΠΟΛ.
 
-From release 1.0.0:
+Release 1.1.0:
 * Correction to the cts-urn structure by considering the elements seg and p (currently div, seg, p, and l are considered)
 
 # Cite

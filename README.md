@@ -1,6 +1,6 @@
 # POS-tagged AncientGreek texts (v1.2.0)
 
-This repository contains the POS-tagged (CTSized) texts of the Ancient Greek Literature contained in the two repositories:
+This repository contains the POS-tagged (CTSized) texts of the Ancient Greek Literature contained in the following releases:
 
 * https://github.com/PerseusDL/canonical-greekLit/releases/tag/0.0.236
 * https://github.com/OpenGreekAndLatin/First1KGreek/releases/tag/1.1.1802

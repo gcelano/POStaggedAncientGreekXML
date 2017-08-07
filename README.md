@@ -7,7 +7,7 @@ This repository contains the POS-tagged (CTSized) texts of the Ancient Greek Lit
 
 The POS-tagging has been generated (completely) automatically by using the MATE tagger, which has been trained on Perseus treebank data:
 
-* https://perseusdl.github.io/treebank_data/
+* https://github.com/PerseusDL/treebank_data/tree/master/v2.0/Greek/nonArethusaCompliant
 
 The tagger achieved an accuracy of 88%. More details can be found in the article:
 

@@ -13,7 +13,7 @@ The tagger achieved an accuracy of 88%. More details can be found in the article
 
 * Celano, Giuseppe G. A, Gregory Crane, Saeed Majidi. 2016. Part of Speech Tagging for Ancient Greek. Open Linguistics 2:393–399. https://doi.org/10.1515/opli-2016-0020
 
-# Changes from previous releases
+# Changes
 Release 1.2.0:
 * New Texts have been added. Tokenization now detects capital letter abbreviations such as ΑΠΟΛ.
 
